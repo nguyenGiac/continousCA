@@ -9,7 +9,7 @@ CA ca;   // An instance object to describe the Wolfram basic Cellular Automata
 
 
 void setup() {
-  size(800, 400);
+  size(1800, 1000);
   background(255);
   ca = new CA();                 // Initialize CA
 }
